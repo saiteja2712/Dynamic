@@ -1,0 +1,4 @@
+applicationconfigutation: host:http://localhost
+  port:3305
+  username:payment-dev
+  password:payment-dev
