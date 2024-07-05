@@ -3,8 +3,9 @@ applicationconfiguration:
   port: 3305
   username: payment-dev-updated-saitej
   password: payment-dev-saiteja
-  env-hostname: http://183.83.216.62
+  env-hostname: http://183.83.216.625
   database: dev
+  local: dteuse
   
 
 
