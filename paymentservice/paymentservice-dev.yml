@@ -4,6 +4,6 @@ applicationconfiguration:
   username: payment-dev-updated-saitej
   password: payment-dev-saiteja
   env-hostname: http://183.83.216.6256789
-  database: local
+  
 
 
