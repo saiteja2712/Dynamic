@@ -5,7 +5,7 @@ applicationconfiguration:
   password: payment-dev-saiteja
   env-hostname: http://183.83.216.62
   database: dev
-  local: dteuse
+  add: ijk
   
 
 
