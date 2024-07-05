@@ -1,5 +1,5 @@
 applicationconfiguration:
   host: http://localhost
   port: 3305
-  username: payment-dev-saitej
-  password: payment-dev-saitej
+  username: payment-dev-sai
+  password: payment-dev-sai
